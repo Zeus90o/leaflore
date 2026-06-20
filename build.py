@@ -118,6 +118,7 @@ def base_page(site, *, title, description, canonical_path, body, jsonld=None, br
 {jsonld_html}
 </head>
 <body>
+<a class="skip-link" href="#main-content">Skip to content</a>
 <header class="site-header">
   <div class="wrap">
     <a class="brand" href="/"><span class="leaf">&#127807;</span> {name}</a>
@@ -128,7 +129,7 @@ def base_page(site, *, title, description, canonical_path, body, jsonld=None, br
     </nav>
   </div>
 </header>
-<main class="wrap">
+<main class="wrap" id="main-content">
 {crumbs_html}
 {body}
 </main>
@@ -136,9 +137,30 @@ def base_page(site, *, title, description, canonical_path, body, jsonld=None, br
   <div class="wrap">
     <p>{name} &mdash; {esc(site['tagline'])}</p>
     <p class="disclosure">As an Amazon Associate we earn from qualifying purchases. Care information is general guidance, not a substitute for professional or veterinary advice. Always confirm pet toxicity with the ASPCA or your veterinarian.</p>
-    <p class="copyright">&copy; {site['year']} {name}. <a href="/privacy/">Privacy</a></p>
+    <p class="copyright">&copy; {site['year']} {name}. <a href="/privacy/">Privacy</a> &middot; <a href="/accessibility/">Accessibility</a></p>
   </div>
 </footer>
+
+<button id="a11y-fab" class="a11y-fab" aria-expanded="false" aria-controls="a11y-panel" aria-label="Accessibility options" title="Accessibility options">&#9855;</button>
+<div id="a11y-panel" class="a11y-panel" role="dialog" aria-label="Accessibility options" hidden>
+  <h2>Accessibility</h2>
+  <div class="a11y-row">
+    <button class="a11y-opt" data-a11y="font-down" aria-label="Decrease text size">A&minus;</button>
+    <button class="a11y-opt" data-a11y="font-up" aria-label="Increase text size">A+</button>
+  </div>
+  <div class="a11y-row">
+    <button id="a11y-contrast-btn" class="a11y-opt" data-a11y="contrast" aria-pressed="false">High contrast</button>
+  </div>
+  <div class="a11y-row">
+    <button id="a11y-links-btn" class="a11y-opt" data-a11y="links" aria-pressed="false">Highlight links</button>
+  </div>
+  <div class="a11y-row">
+    <button id="a11y-readable-btn" class="a11y-opt" data-a11y="readable" aria-pressed="false">Readable font</button>
+  </div>
+  <button class="a11y-opt a11y-reset" data-a11y="reset">Reset</button>
+  <a class="a11y-statement" href="/accessibility/">Accessibility statement</a>
+</div>
+<script src="/assets/a11y.js" defer></script>
 </body>
 </html>
 """
@@ -425,6 +447,48 @@ def render_privacy(site):
     )
 
 
+def render_accessibility(site):
+    body = f"""
+<article class="prose">
+  <h1>Accessibility Statement</h1>
+  <p>{esc(site['name'])} is committed to making its website accessible to people
+  with disabilities, in the spirit of the Web Content Accessibility Guidelines
+  (WCAG) 2.1 level AA and Israeli Standard IS 5568.</p>
+
+  <h2>What we have done</h2>
+  <ul>
+    <li>Semantic HTML structure with proper headings and landmarks.</li>
+    <li>A "skip to content" link for keyboard and screen-reader users.</li>
+    <li>Keyboard-operable navigation and visible focus indicators.</li>
+    <li>An on-site accessibility toolbar (the &#9855; button) offering larger
+    text, high-contrast mode, link highlighting, and a more readable font.</li>
+    <li>Descriptive link text and sufficient colour contrast.</li>
+  </ul>
+
+  <h2>Using the accessibility toolbar</h2>
+  <p>Select the accessibility button (&#9855;) at the corner of any page to adjust
+  text size, contrast, link visibility, and font. Your choices are remembered on
+  your device.</p>
+
+  <h2>Ongoing effort &amp; feedback</h2>
+  <p>Accessibility is an ongoing process and some content may not yet be fully
+  optimised. If you encounter any barrier, or need help with any part of the
+  site, please contact us and we will do our best to assist and to fix the
+  issue. Your feedback helps us improve.</p>
+
+  <p><strong>Contact for accessibility:</strong> {esc(site.get('contact_email', 'use the contact details on this site'))}</p>
+  <p class="aka">Last reviewed: {site['year']}.</p>
+</article>
+"""
+    return base_page(
+        site,
+        title=f"Accessibility Statement | {site['name']}",
+        description=f"Accessibility statement for {site['name']}, following WCAG 2.1 AA and Israeli Standard IS 5568.",
+        canonical_path="/accessibility/",
+        body=body,
+    )
+
+
 def write_page(path_parts, html_str):
     """path_parts e.g. ['plants','monstera'] -> public/plants/monstera/index.html"""
     if path_parts:
@@ -477,12 +541,13 @@ def main():
     if ASSETS_SRC.exists():
         shutil.copytree(ASSETS_SRC, OUT / "assets")
 
-    urls = ["/", "/toxic-to-pets/", "/about/", "/privacy/"]
+    urls = ["/", "/toxic-to-pets/", "/about/", "/privacy/", "/accessibility/"]
 
     write_page([], render_index(site, plants))
     write_page(["toxic-to-pets"], render_toxic_index(site, plants))
     write_page(["about"], render_about(site))
     write_page(["privacy"], render_privacy(site))
+    write_page(["accessibility"], render_accessibility(site))
 
     for p in plants:
         write_page(["plants", p["slug"]], render_plant(site, p))
