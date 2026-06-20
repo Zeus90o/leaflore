@@ -8,5 +8,13 @@
   "amazon_domain": "www.amazon.com",
   "adsense_client": "",
   "analytics_id": "",
-  "year": 2026
+  "year": 2026,
+  "default_lang": "en",
+  "languages": [
+    {"code": "en", "name": "English", "dir": "ltr"},
+    {"code": "ru", "name": "Русский", "dir": "ltr"},
+    {"code": "he", "name": "עברית", "dir": "rtl"},
+    {"code": "zh", "name": "中文", "dir": "ltr"},
+    {"code": "ar", "name": "العربية", "dir": "rtl"}
+  ]
 }
