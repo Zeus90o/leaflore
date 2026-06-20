@@ -1,4 +1,4 @@
-/* LeafLore accessibility toolbar - self-hosted, no dependencies.
+/* Plantwick accessibility toolbar - self-hosted, no dependencies.
    Provides font scaling, high contrast, link highlight, readable font.
    Settings persist via localStorage. */
 (function () {

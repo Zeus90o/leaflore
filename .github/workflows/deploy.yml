@@ -1,4 +1,4 @@
-name: Grow & Deploy LeafLore
+name: Grow & Deploy Plantwick
 
 # Runs on a schedule (drips new content), on every push, and on demand.
 on:

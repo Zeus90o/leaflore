@@ -1,4 +1,4 @@
-# LeafLore — an automated houseplant care website
+# Plantwick — an automated houseplant care website
 
 A self-growing, SEO-optimized content site that earns through Amazon affiliate
 links and display ads. It is built to run with **near-zero ongoing effort**:
@@ -39,7 +39,7 @@ are live and how many are queued.
    ```bash
    git init
    git add .
-   git commit -m "Initial LeafLore site"
+   git commit -m "Initial Plantwick site"
    git branch -M main
    git remote add origin https://github.com/<your-username>/<repo>.git
    git push -u origin main

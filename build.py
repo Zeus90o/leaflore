@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""LeafLore static site generator (multilingual).
+"""Plantwick static site generator (multilingual).
 
 Reads data/site.json, data/plants.json and data/i18n/* and renders a complete
 static website into ./public, one subtree per language. Pure standard library.

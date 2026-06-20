@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""LeafLore content automation.
+"""Plantwick content automation.
 
 Each run, this moves a small number of plants from the backlog into the live
 database and rebuilds the site. Running it on a schedule gives the site a
