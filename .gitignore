@@ -1,0 +1,10 @@
+# Generated output (rebuilt by CI on every deploy)
+public/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local preview config is fine to keep, but ignore OS noise
+.DS_Store
+Thumbs.db

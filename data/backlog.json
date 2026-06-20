@@ -1,0 +1,523 @@
+[
+  {
+    "slug": "dragon-tree",
+    "common_name": "Dragon Tree",
+    "aka": [
+      "Dracaena marginata",
+      "Madagascar Dragon Tree"
+    ],
+    "scientific_name": "Dracaena marginata",
+    "summary": "A striking architectural plant with slim canes topped by spiky, red-edged leaves. Drought-tolerant and forgiving, it adds height to a room with minimal fuss.",
+    "difficulty": "Easy",
+    "light": "Bright indirect light, but tolerates medium light. Direct sun can scorch leaves.",
+    "water": "Let the top half of the soil dry out before watering, about every 10-14 days. Sensitive to overwatering.",
+    "watering_days": 12,
+    "humidity": "Average humidity is fine.",
+    "temperature": "18-27 C (65-80 F).",
+    "soil": "Well-draining potting mix.",
+    "fertilizer": "Light feeder; dilute balanced fertilizer monthly in the growing season.",
+    "growth": "Slow and upright; can reach ceiling height over years.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Toxic to cats and dogs. Contains saponins that cause vomiting, drooling, and loss of appetite if eaten.",
+    "common_problems": [
+      {
+        "problem": "brown leaf tips",
+        "cause": "Fluoride and salts in tap water, the most common issue.",
+        "fix": "Switch to filtered or distilled water and flush the soil periodically."
+      },
+      {
+        "problem": "yellow leaves",
+        "cause": "Overwatering.",
+        "fix": "Allow more drying time between waterings."
+      },
+      {
+        "problem": "drooping leaves",
+        "cause": "Underwatering or cold drafts.",
+        "fix": "Water when the top half is dry and keep away from cold air."
+      }
+    ],
+    "products": [
+      {
+        "category": "Potting mix",
+        "name": "Well-draining potting mix"
+      },
+      {
+        "category": "Watering can",
+        "name": "Indoor watering can"
+      },
+      {
+        "category": "Moisture meter",
+        "name": "Soil moisture meter"
+      }
+    ]
+  },
+  {
+    "slug": "boston-fern",
+    "common_name": "Boston Fern",
+    "aka": [
+      "Nephrolepis exaltata",
+      "Sword Fern"
+    ],
+    "scientific_name": "Nephrolepis exaltata",
+    "summary": "A lush, feathery classic for hanging baskets and bathrooms. Pet-safe and air-purifying, but it demands consistent moisture and humidity to keep from going crispy.",
+    "difficulty": "Hard",
+    "light": "Bright, indirect light. Avoid direct sun.",
+    "water": "Keep soil consistently moist but not soggy. Water about every 4-6 days; never let it dry out completely.",
+    "watering_days": 5,
+    "humidity": "High humidity is essential (50%+). Bathrooms and humidifiers are ideal.",
+    "temperature": "18-24 C (65-75 F).",
+    "soil": "Moisture-retentive, peat-based mix.",
+    "fertilizer": "Diluted balanced fertilizer monthly in spring and summer.",
+    "growth": "Moderate; produces arching fronds that can be divided.",
+    "toxic_to_pets": false,
+    "toxicity_notes": "Non-toxic and safe for cats and dogs.",
+    "common_problems": [
+      {
+        "problem": "brown crispy fronds",
+        "cause": "Low humidity or underwatering, the classic Boston fern problem.",
+        "fix": "Raise humidity dramatically and keep the soil evenly moist."
+      },
+      {
+        "problem": "yellowing fronds",
+        "cause": "Overwatering or poor drainage.",
+        "fix": "Ensure the pot drains and let the surface dry slightly between waterings."
+      },
+      {
+        "problem": "leaf drop",
+        "cause": "Dry air, drafts, or inconsistent watering.",
+        "fix": "Stabilize humidity and watering and keep away from heating vents."
+      }
+    ],
+    "products": [
+      {
+        "category": "Humidifier",
+        "name": "Cool-mist humidifier"
+      },
+      {
+        "category": "Hanging planter",
+        "name": "Hanging planter with drainage"
+      },
+      {
+        "category": "Hygrometer",
+        "name": "Digital humidity monitor"
+      }
+    ]
+  },
+  {
+    "slug": "jade-plant",
+    "common_name": "Jade Plant",
+    "aka": [
+      "Crassula ovata",
+      "Money Plant"
+    ],
+    "scientific_name": "Crassula ovata",
+    "summary": "A long-lived succulent with plump, oval leaves and a tree-like form. Thrives on bright light and infrequent watering, and can live for decades as a treasured heirloom plant.",
+    "difficulty": "Easy",
+    "light": "Bright light with some direct sun. A sunny windowsill is ideal.",
+    "water": "Water deeply only when the soil is fully dry, about every 2-3 weeks. Overwatering causes rot.",
+    "watering_days": 17,
+    "humidity": "Prefers dry air.",
+    "temperature": "15-24 C (60-75 F). Protect from frost.",
+    "soil": "Gritty cactus or succulent mix.",
+    "fertilizer": "Diluted succulent fertilizer two or three times during the growing season.",
+    "growth": "Slow; thickens into a small tree over years.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Toxic to cats and dogs. Ingestion can cause vomiting, lethargy, and incoordination.",
+    "common_problems": [
+      {
+        "problem": "dropping leaves",
+        "cause": "Overwatering or sudden environmental change.",
+        "fix": "Let the soil dry fully and water far less often."
+      },
+      {
+        "problem": "shriveled leaves",
+        "cause": "Underwatering.",
+        "fix": "Give a thorough soak; leaves should plump up in a few days."
+      },
+      {
+        "problem": "leggy stretched growth",
+        "cause": "Too little light.",
+        "fix": "Move to a brighter spot with direct sun."
+      }
+    ],
+    "products": [
+      {
+        "category": "Potting mix",
+        "name": "Cactus and succulent soil"
+      },
+      {
+        "category": "Planter",
+        "name": "Terracotta pot with drainage"
+      },
+      {
+        "category": "Grow light",
+        "name": "Compact LED grow light"
+      }
+    ]
+  },
+  {
+    "slug": "string-of-pearls",
+    "common_name": "String of Pearls",
+    "aka": [
+      "Senecio rowleyanus",
+      "Curio rowleyanus"
+    ],
+    "scientific_name": "Curio rowleyanus",
+    "summary": "An unusual trailing succulent with strands of round, pea-like leaves that spill over pot edges. Stunning in hanging planters but unforgiving of overwatering.",
+    "difficulty": "Hard",
+    "light": "Bright indirect light with some gentle direct sun.",
+    "water": "Water only when the soil is dry, about every 2 weeks. The pearls shrivel slightly when thirsty.",
+    "watering_days": 14,
+    "humidity": "Prefers dry air.",
+    "temperature": "18-26 C (65-79 F).",
+    "soil": "Gritty, fast-draining succulent mix.",
+    "fertilizer": "Diluted succulent fertilizer occasionally in spring and summer.",
+    "growth": "Trailing; strands can grow long and be propagated easily.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Toxic to cats and dogs. Can cause vomiting, drooling, and skin irritation.",
+    "common_problems": [
+      {
+        "problem": "shriveled pearls",
+        "cause": "Underwatering or, if mushy, overwatering.",
+        "fix": "Check the soil: water if bone-dry, or cut back if soggy."
+      },
+      {
+        "problem": "mushy strands",
+        "cause": "Overwatering and rot.",
+        "fix": "Reduce watering sharply and ensure excellent drainage."
+      },
+      {
+        "problem": "sparse, leggy strands",
+        "cause": "Too little light.",
+        "fix": "Move to brighter light and trim to encourage fuller growth."
+      }
+    ],
+    "products": [
+      {
+        "category": "Hanging planter",
+        "name": "Hanging planter with drainage"
+      },
+      {
+        "category": "Potting mix",
+        "name": "Cactus and succulent mix"
+      },
+      {
+        "category": "Moisture meter",
+        "name": "Soil moisture meter"
+      }
+    ]
+  },
+  {
+    "slug": "bird-of-paradise",
+    "common_name": "Bird of Paradise",
+    "aka": [
+      "Strelitzia",
+      "Strelitzia nicolai"
+    ],
+    "scientific_name": "Strelitzia nicolai",
+    "summary": "A bold, tropical statement plant with huge paddle-shaped leaves that bring a jungle feel indoors. Fast-growing in bright light and surprisingly low-maintenance once established.",
+    "difficulty": "Easy",
+    "light": "Bright light, including some direct sun, for best growth. Low light slows it dramatically.",
+    "water": "Water when the top 3-5 cm of soil is dry, about every 7-10 days. Reduce in winter.",
+    "watering_days": 9,
+    "humidity": "Prefers moderate to high humidity.",
+    "temperature": "18-27 C (65-80 F).",
+    "soil": "Rich, well-draining potting mix.",
+    "fertilizer": "Balanced fertilizer every 2-4 weeks in spring and summer; it's a heavy feeder.",
+    "growth": "Fast and large; can reach 2 m (6 ft) indoors.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Mildly toxic to cats and dogs. The seeds and leaves can cause nausea, drooling, and drowsiness if eaten.",
+    "common_problems": [
+      {
+        "problem": "splitting leaves",
+        "cause": "This is natural - the splits let wind pass in the wild and are not a problem.",
+        "fix": "No fix needed; reduce drafts if you prefer fewer splits."
+      },
+      {
+        "problem": "brown leaf edges",
+        "cause": "Low humidity, underwatering, or tap water minerals.",
+        "fix": "Raise humidity, water consistently, and use filtered water."
+      },
+      {
+        "problem": "curling leaves",
+        "cause": "Underwatering or too little light.",
+        "fix": "Water thoroughly and move to a brighter spot."
+      }
+    ],
+    "products": [
+      {
+        "category": "Grow light",
+        "name": "Full-spectrum LED grow light"
+      },
+      {
+        "category": "Fertilizer",
+        "name": "Balanced liquid fertilizer"
+      },
+      {
+        "category": "Potting mix",
+        "name": "Indoor tree potting mix"
+      }
+    ]
+  },
+  {
+    "slug": "parlor-palm",
+    "common_name": "Parlor Palm",
+    "aka": [
+      "Chamaedorea elegans",
+      "Neanthe Bella Palm"
+    ],
+    "scientific_name": "Chamaedorea elegans",
+    "summary": "A compact, elegant palm that has decorated homes since Victorian times. Pet-safe and tolerant of low light, it's one of the easiest palms to grow indoors.",
+    "difficulty": "Easy",
+    "light": "Low to medium indirect light. Avoid direct sun.",
+    "water": "Water when the top 2-3 cm of soil is dry, about every 7-10 days. Avoid waterlogging.",
+    "watering_days": 9,
+    "humidity": "Average humidity is fine; higher reduces brown tips.",
+    "temperature": "18-27 C (65-80 F).",
+    "soil": "Well-draining potting mix.",
+    "fertilizer": "Diluted balanced fertilizer monthly in spring and summer.",
+    "growth": "Slow; stays compact, ideal for tabletops.",
+    "toxic_to_pets": false,
+    "toxicity_notes": "Non-toxic and safe for cats and dogs.",
+    "common_problems": [
+      {
+        "problem": "brown leaf tips",
+        "cause": "Dry air, underwatering, or salty tap water.",
+        "fix": "Raise humidity, water consistently, and use filtered water."
+      },
+      {
+        "problem": "yellow fronds",
+        "cause": "Overwatering or too much light.",
+        "fix": "Let the soil dry more and move out of direct sun."
+      },
+      {
+        "problem": "spider mites",
+        "cause": "Dry indoor air encourages these pests.",
+        "fix": "Rinse the foliage, raise humidity, and treat with insecticidal soap if needed."
+      }
+    ],
+    "products": [
+      {
+        "category": "Potting mix",
+        "name": "Indoor potting mix"
+      },
+      {
+        "category": "Humidifier",
+        "name": "Cool-mist humidifier"
+      },
+      {
+        "category": "Pest control",
+        "name": "Insecticidal soap spray"
+      }
+    ]
+  },
+  {
+    "slug": "anthurium",
+    "common_name": "Anthurium",
+    "aka": [
+      "Flamingo Flower",
+      "Laceleaf"
+    ],
+    "scientific_name": "Anthurium andraeanum",
+    "summary": "Known for its glossy, heart-shaped red, pink, or white spathes, the anthurium blooms almost year-round in good conditions. A vibrant, long-lasting flowering houseplant.",
+    "difficulty": "Easy",
+    "light": "Bright, indirect light for continuous blooming. Avoid direct sun.",
+    "water": "Water when the top 2-3 cm of soil is dry, about every 7 days. Keep lightly moist but never soggy.",
+    "watering_days": 7,
+    "humidity": "Prefers high humidity (50%+).",
+    "temperature": "18-27 C (65-80 F).",
+    "soil": "Loose, well-draining mix with orchid bark.",
+    "fertilizer": "Phosphorus-rich fertilizer diluted, every 6-8 weeks, to encourage blooms.",
+    "growth": "Moderate; blooms last for weeks.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Toxic to cats and dogs. Calcium oxalate crystals cause oral pain, drooling, and vomiting if chewed.",
+    "common_problems": [
+      {
+        "problem": "no flowers",
+        "cause": "Too little light or insufficient phosphorus.",
+        "fix": "Move to brighter indirect light and feed with a bloom fertilizer."
+      },
+      {
+        "problem": "yellow leaves",
+        "cause": "Overwatering.",
+        "fix": "Let the soil dry more and improve drainage."
+      },
+      {
+        "problem": "brown leaf tips",
+        "cause": "Low humidity or tap water minerals.",
+        "fix": "Raise humidity and use filtered water."
+      }
+    ],
+    "products": [
+      {
+        "category": "Fertilizer",
+        "name": "Bloom-boosting houseplant fertilizer"
+      },
+      {
+        "category": "Humidifier",
+        "name": "Cool-mist humidifier"
+      },
+      {
+        "category": "Potting mix",
+        "name": "Orchid and aroid potting mix"
+      }
+    ]
+  },
+  {
+    "slug": "money-tree",
+    "common_name": "Money Tree",
+    "aka": [
+      "Pachira aquatica",
+      "Guiana Chestnut"
+    ],
+    "scientific_name": "Pachira aquatica",
+    "summary": "Often sold with a braided trunk, the money tree is a pet-safe, good-luck plant that's easy to keep. It tolerates a range of conditions and adds a tidy, sculptural look.",
+    "difficulty": "Easy",
+    "light": "Bright, indirect light. Tolerates medium light; avoid harsh direct sun.",
+    "water": "Water when the top 5 cm of soil is dry, about every 7-10 days. Sensitive to overwatering.",
+    "watering_days": 9,
+    "humidity": "Prefers moderate humidity.",
+    "temperature": "18-27 C (65-80 F).",
+    "soil": "Well-draining potting mix.",
+    "fertilizer": "Balanced fertilizer monthly in spring and summer.",
+    "growth": "Moderate; rotate for even growth and prune to shape.",
+    "toxic_to_pets": false,
+    "toxicity_notes": "Non-toxic and considered safe for cats and dogs.",
+    "common_problems": [
+      {
+        "problem": "yellow leaves",
+        "cause": "Overwatering, the most common issue.",
+        "fix": "Let the soil dry more between waterings and ensure good drainage."
+      },
+      {
+        "problem": "dropping leaves",
+        "cause": "Sudden change in light, temperature, or watering.",
+        "fix": "Keep conditions stable and avoid moving the plant frequently."
+      },
+      {
+        "problem": "leggy growth",
+        "cause": "Too little light.",
+        "fix": "Move to brighter indirect light and prune to encourage branching."
+      }
+    ],
+    "products": [
+      {
+        "category": "Potting mix",
+        "name": "Well-draining indoor potting mix"
+      },
+      {
+        "category": "Planter",
+        "name": "Ceramic planter with drainage"
+      },
+      {
+        "category": "Moisture meter",
+        "name": "Soil moisture meter"
+      }
+    ]
+  },
+  {
+    "slug": "christmas-cactus",
+    "common_name": "Christmas Cactus",
+    "aka": [
+      "Schlumbergera",
+      "Holiday Cactus"
+    ],
+    "scientific_name": "Schlumbergera bridgesii",
+    "summary": "A pet-safe winter bloomer with flat, segmented stems and vivid flowers that appear around the holidays. Easy to keep and capable of living for generations.",
+    "difficulty": "Easy",
+    "light": "Bright, indirect light. Some direct morning sun is fine.",
+    "water": "Water when the top 2-3 cm of soil is dry, about every 7-10 days. It's a tropical cactus, not a desert one, so don't let it fully dry for long.",
+    "watering_days": 9,
+    "humidity": "Prefers moderate humidity.",
+    "temperature": "18-24 C (65-75 F); cooler nights in fall trigger blooming.",
+    "soil": "Well-draining mix with added perlite or orchid bark.",
+    "fertilizer": "Balanced fertilizer monthly in spring and summer; stop before bloom season.",
+    "growth": "Moderate; arching segmented stems, easy to propagate.",
+    "toxic_to_pets": false,
+    "toxicity_notes": "Non-toxic to cats and dogs, though eating large amounts may cause mild stomach upset.",
+    "common_problems": [
+      {
+        "problem": "no blooms",
+        "cause": "Not enough cool, dark nights in fall.",
+        "fix": "Give 12-14 hours of darkness and cooler temperatures for several weeks to trigger buds."
+      },
+      {
+        "problem": "dropping buds",
+        "cause": "Sudden change in light, temperature, or watering during budding.",
+        "fix": "Keep conditions stable once buds form and avoid moving the plant."
+      },
+      {
+        "problem": "limp, wrinkled segments",
+        "cause": "Under- or overwatering.",
+        "fix": "Check the soil and adjust; keep it lightly moist, never soggy or bone-dry."
+      }
+    ],
+    "products": [
+      {
+        "category": "Potting mix",
+        "name": "Cactus potting mix with perlite"
+      },
+      {
+        "category": "Fertilizer",
+        "name": "Balanced houseplant fertilizer"
+      },
+      {
+        "category": "Planter",
+        "name": "Decorative pot with drainage"
+      }
+    ]
+  },
+  {
+    "slug": "areca-palm",
+    "common_name": "Areca Palm",
+    "aka": [
+      "Dypsis lutescens",
+      "Butterfly Palm",
+      "Golden Cane Palm"
+    ],
+    "scientific_name": "Dypsis lutescens",
+    "summary": "A feathery, full palm that brings a tropical, resort-like feel to bright rooms. Pet-safe and a strong air purifier, though it likes consistent moisture and humidity.",
+    "difficulty": "Easy",
+    "light": "Bright, indirect light. Some gentle direct sun is tolerated.",
+    "water": "Keep soil lightly moist; water when the top 2-3 cm is dry, about every 5-7 days. Reduce in winter.",
+    "watering_days": 6,
+    "humidity": "Prefers higher humidity; brown tips appear in dry air.",
+    "temperature": "18-27 C (65-80 F).",
+    "soil": "Well-draining, slightly peaty mix.",
+    "fertilizer": "Balanced fertilizer monthly in spring and summer.",
+    "growth": "Moderate to fast; can reach 2 m (6-7 ft) indoors.",
+    "toxic_to_pets": false,
+    "toxicity_notes": "Non-toxic and safe for cats and dogs.",
+    "common_problems": [
+      {
+        "problem": "brown leaf tips",
+        "cause": "Dry air, underwatering, or fluoride in tap water.",
+        "fix": "Raise humidity, keep soil lightly moist, and use filtered water."
+      },
+      {
+        "problem": "yellow fronds",
+        "cause": "Overwatering or nutrient deficiency.",
+        "fix": "Improve drainage and feed during the growing season."
+      },
+      {
+        "problem": "spider mites",
+        "cause": "Dry indoor air.",
+        "fix": "Rinse fronds, raise humidity, and treat with insecticidal soap if needed."
+      }
+    ],
+    "products": [
+      {
+        "category": "Humidifier",
+        "name": "Cool-mist humidifier"
+      },
+      {
+        "category": "Fertilizer",
+        "name": "Balanced palm fertilizer"
+      },
+      {
+        "category": "Pest control",
+        "name": "Insecticidal soap spray"
+      }
+    ]
+  }
+]

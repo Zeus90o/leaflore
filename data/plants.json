@@ -1,0 +1,673 @@
+[
+  {
+    "slug": "monstera-deliciosa",
+    "common_name": "Monstera Deliciosa",
+    "aka": [
+      "Swiss Cheese Plant",
+      "Split-Leaf Philodendron"
+    ],
+    "scientific_name": "Monstera deliciosa",
+    "summary": "A fast-growing tropical climber famous for its large, glossy leaves that develop dramatic holes and splits (fenestrations) as the plant matures. Forgiving and rewarding, it's one of the best statement plants for beginners.",
+    "difficulty": "Easy",
+    "light": "Bright, indirect light. Tolerates medium light but grows slower and produces fewer splits. Avoid harsh direct sun, which scorches leaves.",
+    "water": "Water when the top 2-3 cm (1 inch) of soil is dry. Soak thoroughly until water drains, then empty the saucer. Roughly every 7-10 days in summer, less in winter.",
+    "watering_days": 9,
+    "humidity": "Prefers 50-60% humidity but adapts to average household air. Higher humidity encourages bigger, more fenestrated leaves.",
+    "temperature": "18-27 C (65-80 F). Keep away from cold drafts and heating vents.",
+    "soil": "Loose, chunky, well-draining mix. Equal parts potting soil, orchid bark, and perlite works well.",
+    "fertilizer": "Balanced liquid fertilizer diluted to half strength, every 4 weeks during spring and summer. Stop in winter.",
+    "growth": "Vigorous climber. Provide a moss pole for support and larger leaves. Can grow several feet per year in good conditions.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Toxic to cats and dogs. Contains insoluble calcium oxalate crystals that cause oral irritation, drooling, and vomiting if chewed.",
+    "common_problems": [
+      {
+        "problem": "yellow leaves",
+        "cause": "Most often overwatering or soggy soil; occasionally underwatering or low light.",
+        "fix": "Check the soil. If it's wet, let it dry out and water less often. Ensure the pot drains freely and the plant gets bright indirect light."
+      },
+      {
+        "problem": "brown leaf edges",
+        "cause": "Low humidity, underwatering, or salt buildup from tap water or fertilizer.",
+        "fix": "Raise humidity, water more consistently, and flush the soil with distilled water every few months to clear mineral buildup."
+      },
+      {
+        "problem": "no splits or holes",
+        "cause": "Plant is young or not getting enough light.",
+        "fix": "Be patient with juvenile plants and move it to brighter indirect light. Adding a moss pole also encourages mature, fenestrated leaves."
+      },
+      {
+        "problem": "drooping leaves",
+        "cause": "Underwatering (most common) or, less often, overwatering and root stress.",
+        "fix": "Feel the soil. If dry, give a thorough soak; the leaves usually perk up within a day. If wet, hold off and check roots for rot."
+      }
+    ],
+    "products": [
+      {
+        "category": "Moss pole",
+        "name": "Coir moss pole for climbing support"
+      },
+      {
+        "category": "Moisture meter",
+        "name": "Soil moisture meter"
+      },
+      {
+        "category": "Potting mix",
+        "name": "Chunky aroid potting mix with bark and perlite"
+      }
+    ]
+  },
+  {
+    "slug": "snake-plant",
+    "common_name": "Snake Plant",
+    "aka": [
+      "Mother-in-Law's Tongue",
+      "Sansevieria",
+      "Dracaena trifasciata"
+    ],
+    "scientific_name": "Dracaena trifasciata",
+    "summary": "Nearly indestructible upright succulent with stiff, sword-like leaves. Tolerates neglect, low light, and irregular watering, making it the top pick for beginners and forgetful waterers.",
+    "difficulty": "Very Easy",
+    "light": "Adapts to anything from low light to bright indirect light. Grows fastest in bright light but survives in dim corners.",
+    "water": "Let the soil dry out completely between waterings. Water roughly every 2-3 weeks in summer and once a month or less in winter. When in doubt, wait.",
+    "watering_days": 18,
+    "humidity": "Indifferent to humidity; thrives in dry household air.",
+    "temperature": "15-27 C (60-80 F). Protect from temperatures below 10 C (50 F).",
+    "soil": "Fast-draining cactus or succulent mix. Add extra perlite or sand to prevent soggy roots.",
+    "fertilizer": "Light feeder. A diluted balanced fertilizer once or twice during spring and summer is plenty.",
+    "growth": "Slow to moderate. Spreads via underground rhizomes and can be divided easily.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Mildly toxic to cats and dogs. Contains saponins that can cause nausea, vomiting, and diarrhea if eaten.",
+    "common_problems": [
+      {
+        "problem": "mushy or soft leaves",
+        "cause": "Overwatering and root rot, the most common way to kill this plant.",
+        "fix": "Stop watering immediately, unpot the plant, trim any black mushy roots, and repot in dry, fast-draining mix. Water far less going forward."
+      },
+      {
+        "problem": "drooping or falling leaves",
+        "cause": "Overwatering, too little light, or an oversized pot holding excess moisture.",
+        "fix": "Let the soil dry fully, move to brighter light, and repot into a snug, well-draining container if needed."
+      },
+      {
+        "problem": "brown leaf tips",
+        "cause": "Inconsistent watering or fluoride and salts in tap water.",
+        "fix": "Water on a more regular schedule once the soil is dry and switch to filtered or distilled water."
+      },
+      {
+        "problem": "wrinkled leaves",
+        "cause": "Underwatering over a long period.",
+        "fix": "Give a thorough soak and resume watering whenever the soil is fully dry; the leaves should firm back up."
+      }
+    ],
+    "products": [
+      {
+        "category": "Potting mix",
+        "name": "Cactus and succulent potting mix"
+      },
+      {
+        "category": "Planter",
+        "name": "Terracotta pot with drainage hole"
+      },
+      {
+        "category": "Moisture meter",
+        "name": "Soil moisture meter"
+      }
+    ]
+  },
+  {
+    "slug": "pothos",
+    "common_name": "Pothos",
+    "aka": [
+      "Devil's Ivy",
+      "Epipremnum aureum"
+    ],
+    "scientific_name": "Epipremnum aureum",
+    "summary": "A trailing vine with heart-shaped leaves that grows quickly and roots easily from cuttings. Extremely forgiving and ideal for shelves, hanging baskets, and first-time plant owners.",
+    "difficulty": "Very Easy",
+    "light": "Bright indirect light brings out variegation, but pothos tolerates low light well. Variegated types fade toward solid green in dim conditions.",
+    "water": "Water when the top 2-3 cm of soil is dry, about every 7-10 days. The leaves wilt slightly when thirsty, making it easy to read.",
+    "watering_days": 8,
+    "humidity": "Tolerates average humidity but appreciates a more humid spot.",
+    "temperature": "18-29 C (65-85 F). Avoid cold drafts.",
+    "soil": "Standard well-draining potting mix.",
+    "fertilizer": "Balanced liquid fertilizer at half strength monthly during spring and summer.",
+    "growth": "Fast trailing growth. Pinch tips to encourage bushiness and propagate cuttings in water with ease.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Toxic to cats and dogs. Calcium oxalate crystals cause mouth irritation, drooling, and vomiting if chewed.",
+    "common_problems": [
+      {
+        "problem": "yellow leaves",
+        "cause": "Overwatering is the usual culprit; also natural aging of older leaves.",
+        "fix": "Let the soil dry more between waterings and ensure good drainage. Remove the odd yellow leaf - it's normal in small numbers."
+      },
+      {
+        "problem": "leggy vines with sparse leaves",
+        "cause": "Too little light.",
+        "fix": "Move to brighter indirect light and prune long bare vines to encourage fuller growth."
+      },
+      {
+        "problem": "brown crispy tips",
+        "cause": "Underwatering or dry air.",
+        "fix": "Water more consistently and consider raising humidity slightly."
+      },
+      {
+        "problem": "fading variegation",
+        "cause": "Insufficient light.",
+        "fix": "Give the plant brighter indirect light to restore the white or yellow markings."
+      }
+    ],
+    "products": [
+      {
+        "category": "Hanging planter",
+        "name": "Hanging planter with drainage"
+      },
+      {
+        "category": "Potting mix",
+        "name": "All-purpose indoor potting mix"
+      },
+      {
+        "category": "Pruning shears",
+        "name": "Precision pruning snips"
+      }
+    ]
+  },
+  {
+    "slug": "fiddle-leaf-fig",
+    "common_name": "Fiddle Leaf Fig",
+    "aka": [
+      "Ficus lyrata"
+    ],
+    "scientific_name": "Ficus lyrata",
+    "summary": "A dramatic indoor tree with large, violin-shaped leaves. Stunning but fussy - it rewards consistency and punishes change, so it's best for owners willing to dial in a routine.",
+    "difficulty": "Hard",
+    "light": "Lots of bright, indirect light, ideally near an east- or south-facing window. Insufficient light is the main reason it struggles indoors.",
+    "water": "Water thoroughly when the top 3-5 cm of soil is dry, then let it drain. Usually every 7-10 days. It hates both soggy roots and complete dry-out.",
+    "watering_days": 9,
+    "humidity": "Prefers 40-60% humidity. Dry air contributes to brown spots and leaf drop.",
+    "temperature": "18-24 C (65-75 F). Very sensitive to drafts and sudden temperature swings.",
+    "soil": "Well-draining, peat-based potting mix.",
+    "fertilizer": "Balanced fertilizer for foliage plants every 2-4 weeks in spring and summer.",
+    "growth": "Can grow into a tall tree indoors. Rotate regularly for even growth and dust leaves to keep them photosynthesizing.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Toxic to cats and dogs. The milky sap contains irritants that cause mouth and stomach upset.",
+    "common_problems": [
+      {
+        "problem": "brown spots on leaves",
+        "cause": "Overwatering and root rot, or dry edges from underwatering and low humidity.",
+        "fix": "Identify the pattern: dark spots from the center suggest root rot (dry out and check roots), while crispy edge spots suggest dryness (water consistently and raise humidity)."
+      },
+      {
+        "problem": "dropping leaves",
+        "cause": "Stress from a move, draft, or change in watering or light.",
+        "fix": "Keep conditions stable - same spot, steady watering, no cold drafts - and give it time to adjust."
+      },
+      {
+        "problem": "leaves leaning toward window",
+        "cause": "Phototropism - the plant grows toward its light source.",
+        "fix": "Rotate the pot a quarter turn every week or two for even, upright growth."
+      },
+      {
+        "problem": "red or brown new growth spots (edema)",
+        "cause": "Irregular watering causing cells to burst.",
+        "fix": "Water on a steady schedule rather than letting the plant swing between bone-dry and saturated."
+      }
+    ],
+    "products": [
+      {
+        "category": "Grow light",
+        "name": "Full-spectrum LED grow light"
+      },
+      {
+        "category": "Humidifier",
+        "name": "Cool-mist room humidifier"
+      },
+      {
+        "category": "Moisture meter",
+        "name": "Soil moisture meter"
+      }
+    ]
+  },
+  {
+    "slug": "zz-plant",
+    "common_name": "ZZ Plant",
+    "aka": [
+      "Zamioculcas zamiifolia",
+      "Zanzibar Gem"
+    ],
+    "scientific_name": "Zamioculcas zamiifolia",
+    "summary": "A glossy, upright plant with waxy leaves that stores water in thick underground rhizomes. Thrives on neglect and low light, making it one of the toughest houseplants you can buy.",
+    "difficulty": "Very Easy",
+    "light": "Tolerates low light to bright indirect light. Avoid direct sun, which can scorch the leaves.",
+    "water": "Water only when the soil is fully dry, roughly every 2-3 weeks. The rhizomes store water, so underwatering is far safer than overwatering.",
+    "watering_days": 17,
+    "humidity": "Fine in average household humidity.",
+    "temperature": "18-26 C (65-79 F). Keep above 7 C (45 F).",
+    "soil": "Well-draining potting mix with added perlite.",
+    "fertilizer": "Light feeder; dilute balanced fertilizer once or twice during the growing season.",
+    "growth": "Slow but steady. Sends up new stems from the rhizomes over time.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Toxic to cats and dogs. Calcium oxalate crystals cause oral irritation and stomach upset if ingested.",
+    "common_problems": [
+      {
+        "problem": "yellow leaves",
+        "cause": "Overwatering and root or rhizome rot.",
+        "fix": "Stop watering, check the rhizomes for soft rot, trim affected parts, and repot in dry, fast-draining mix. Water much less often."
+      },
+      {
+        "problem": "drooping stems",
+        "cause": "Either severe underwatering or, more often, overwatering.",
+        "fix": "Check the soil and rhizomes. Adjust watering accordingly; if rhizomes are firm and soil dry, a soak will help."
+      },
+      {
+        "problem": "brown leaf tips",
+        "cause": "Low humidity or salt buildup.",
+        "fix": "Flush the soil occasionally and switch to filtered water."
+      },
+      {
+        "problem": "leggy growth",
+        "cause": "Too little light.",
+        "fix": "Move to a brighter spot with indirect light for more compact stems."
+      }
+    ],
+    "products": [
+      {
+        "category": "Potting mix",
+        "name": "Well-draining indoor potting mix"
+      },
+      {
+        "category": "Planter",
+        "name": "Ceramic planter with drainage"
+      },
+      {
+        "category": "Moisture meter",
+        "name": "Soil moisture meter"
+      }
+    ]
+  },
+  {
+    "slug": "spider-plant",
+    "common_name": "Spider Plant",
+    "aka": [
+      "Airplane Plant",
+      "Chlorophytum comosum"
+    ],
+    "scientific_name": "Chlorophytum comosum",
+    "summary": "A cheerful, arching plant that produces baby plantlets (spiderettes) on long stems. Easy, fast-growing, pet-safe, and one of the best plants for hanging baskets.",
+    "difficulty": "Very Easy",
+    "light": "Bright to medium indirect light. Tolerates lower light but grows and variegates best in brighter spots.",
+    "water": "Keep soil lightly moist in summer; let the top few centimeters dry between waterings. Roughly every 7 days, less in winter.",
+    "watering_days": 7,
+    "humidity": "Average humidity is fine; brown tips can appear in very dry air.",
+    "temperature": "13-27 C (55-80 F).",
+    "soil": "Standard well-draining potting mix.",
+    "fertilizer": "Diluted balanced fertilizer monthly in spring and summer. Over-fertilizing causes brown tips.",
+    "growth": "Fast. Produces plantlets you can pot up to propagate. Roots store water in thick tubers.",
+    "toxic_to_pets": false,
+    "toxicity_notes": "Non-toxic and safe for cats and dogs, though cats may be tempted to chew the dangling plantlets.",
+    "common_problems": [
+      {
+        "problem": "brown leaf tips",
+        "cause": "Fluoride and salts in tap water, over-fertilizing, or dry air - very common in this plant.",
+        "fix": "Switch to filtered or rainwater, ease off fertilizer, and flush the soil periodically."
+      },
+      {
+        "problem": "pale or fading leaves",
+        "cause": "Too much direct sun or nutrient deficiency.",
+        "fix": "Move out of harsh direct light and feed lightly during the growing season."
+      },
+      {
+        "problem": "no baby plantlets",
+        "cause": "Plant is young, under-lit, or too comfortable in a large pot.",
+        "fix": "Give bright indirect light and let it become slightly root-bound, which encourages plantlets."
+      },
+      {
+        "problem": "limp leaves",
+        "cause": "Underwatering or, less often, root rot from overwatering.",
+        "fix": "Check soil moisture and water accordingly; keep the soil lightly moist but never soggy."
+      }
+    ],
+    "products": [
+      {
+        "category": "Hanging planter",
+        "name": "Macrame hanging planter"
+      },
+      {
+        "category": "Watering can",
+        "name": "Long-spout watering can"
+      },
+      {
+        "category": "Potting mix",
+        "name": "All-purpose potting mix"
+      }
+    ]
+  },
+  {
+    "slug": "peace-lily",
+    "common_name": "Peace Lily",
+    "aka": [
+      "Spathiphyllum"
+    ],
+    "scientific_name": "Spathiphyllum wallisii",
+    "summary": "An elegant low-light plant with glossy leaves and white hooded flowers. It dramatically droops when thirsty and bounces back fast, making its needs easy to read.",
+    "difficulty": "Easy",
+    "light": "Low to medium indirect light. Too much direct sun scorches leaves; very low light reduces flowering.",
+    "water": "Keep soil lightly moist. Water when the top 2-3 cm is dry or as soon as leaves begin to droop, about every 7 days.",
+    "watering_days": 7,
+    "humidity": "Loves higher humidity (50%+). Misting or a pebble tray helps prevent brown tips.",
+    "temperature": "18-27 C (65-80 F). Keep away from cold drafts.",
+    "soil": "Rich, well-draining potting mix that retains some moisture.",
+    "fertilizer": "Balanced fertilizer at half strength every 6 weeks during spring and summer.",
+    "growth": "Moderate. Blooms most reliably in spring; flowers fade to green and can be trimmed off.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Toxic to cats and dogs. Calcium oxalate crystals cause oral burning, drooling, and vomiting if chewed.",
+    "common_problems": [
+      {
+        "problem": "drooping leaves",
+        "cause": "Underwatering, usually - this plant wilts dramatically when thirsty.",
+        "fix": "Water thoroughly; it typically recovers within hours. If the soil is already wet, check for root rot instead."
+      },
+      {
+        "problem": "brown leaf tips",
+        "cause": "Low humidity, tap water minerals, or over-fertilizing.",
+        "fix": "Raise humidity, use filtered water, and reduce feeding."
+      },
+      {
+        "problem": "no flowers",
+        "cause": "Too little light or insufficient feeding.",
+        "fix": "Move to brighter indirect light and feed during the growing season to encourage blooms."
+      },
+      {
+        "problem": "yellow leaves",
+        "cause": "Overwatering or natural aging.",
+        "fix": "Let the soil dry slightly more between waterings and remove old yellow leaves."
+      }
+    ],
+    "products": [
+      {
+        "category": "Humidifier",
+        "name": "Cool-mist humidifier"
+      },
+      {
+        "category": "Watering can",
+        "name": "Indoor watering can"
+      },
+      {
+        "category": "Fertilizer",
+        "name": "Balanced liquid houseplant fertilizer"
+      }
+    ]
+  },
+  {
+    "slug": "aloe-vera",
+    "common_name": "Aloe Vera",
+    "aka": [
+      "Aloe barbadensis miller"
+    ],
+    "scientific_name": "Aloe vera",
+    "summary": "A hardy medicinal succulent with thick, gel-filled leaves. Thrives on bright light and infrequent watering, and the gel is a popular home remedy for minor burns.",
+    "difficulty": "Easy",
+    "light": "Bright light, including some direct sun. A sunny windowsill is ideal. Too little light causes flat, floppy growth.",
+    "water": "Water deeply only when the soil is completely dry, roughly every 2-3 weeks. Overwatering is the main cause of failure.",
+    "watering_days": 17,
+    "humidity": "Prefers dry air; no humidity needs.",
+    "temperature": "13-27 C (55-80 F). Protect from frost.",
+    "soil": "Gritty cactus or succulent mix with excellent drainage.",
+    "fertilizer": "Minimal. A diluted succulent fertilizer once or twice in summer is enough.",
+    "growth": "Slow to moderate. Produces offsets (pups) you can separate and pot up.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Toxic to cats and dogs. The latex layer just under the skin causes vomiting and diarrhea if eaten.",
+    "common_problems": [
+      {
+        "problem": "mushy, translucent leaves",
+        "cause": "Overwatering and rot.",
+        "fix": "Stop watering, remove affected leaves, and repot in dry, gritty mix. Water only when fully dry."
+      },
+      {
+        "problem": "flat or drooping leaves",
+        "cause": "Too little light.",
+        "fix": "Move to a brighter spot with some direct sun; leaves should grow upright and plump."
+      },
+      {
+        "problem": "brown or red leaves",
+        "cause": "Sunburn from sudden intense sun or underwatering.",
+        "fix": "Acclimate gradually to bright light and water when the soil is fully dry."
+      },
+      {
+        "problem": "thin, curling leaves",
+        "cause": "Underwatering.",
+        "fix": "Give a deep soak; the leaves should plump back up over a few days."
+      }
+    ],
+    "products": [
+      {
+        "category": "Potting mix",
+        "name": "Cactus and succulent soil"
+      },
+      {
+        "category": "Planter",
+        "name": "Terracotta pot with drainage"
+      },
+      {
+        "category": "Grow light",
+        "name": "Compact LED grow light"
+      }
+    ]
+  },
+  {
+    "slug": "rubber-plant",
+    "common_name": "Rubber Plant",
+    "aka": [
+      "Ficus elastica",
+      "Rubber Fig"
+    ],
+    "scientific_name": "Ficus elastica",
+    "summary": "A bold indoor tree with thick, glossy leaves in deep green or burgundy. Easier than its cousin the fiddle leaf fig, it grows tall fast in good light.",
+    "difficulty": "Easy",
+    "light": "Bright, indirect light. Variegated types need more light; deep green types tolerate medium light.",
+    "water": "Water when the top 3-5 cm of soil is dry, about every 7-10 days. Reduce in winter.",
+    "watering_days": 9,
+    "humidity": "Average to slightly elevated humidity. Wipe leaves to keep them dust-free and glossy.",
+    "temperature": "16-27 C (60-80 F). Avoid cold drafts.",
+    "soil": "Well-draining potting mix.",
+    "fertilizer": "Balanced fertilizer monthly during spring and summer.",
+    "growth": "Fast and upright. Prune the top to control height and encourage branching.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Mildly toxic to cats and dogs. The milky sap irritates the mouth and stomach and can irritate skin.",
+    "common_problems": [
+      {
+        "problem": "dropping leaves",
+        "cause": "Overwatering, cold drafts, or sudden environmental change.",
+        "fix": "Keep conditions stable and let the soil dry appropriately between waterings."
+      },
+      {
+        "problem": "yellow leaves",
+        "cause": "Overwatering, the most common cause.",
+        "fix": "Allow the soil to dry more and confirm the pot drains well."
+      },
+      {
+        "problem": "brown leaf edges",
+        "cause": "Low humidity or underwatering.",
+        "fix": "Water consistently and raise humidity slightly."
+      },
+      {
+        "problem": "leggy growth",
+        "cause": "Insufficient light.",
+        "fix": "Move to brighter indirect light and prune to encourage bushier growth."
+      }
+    ],
+    "products": [
+      {
+        "category": "Potting mix",
+        "name": "Indoor tree potting mix"
+      },
+      {
+        "category": "Pruning shears",
+        "name": "Bypass pruning shears"
+      },
+      {
+        "category": "Fertilizer",
+        "name": "Balanced houseplant fertilizer"
+      }
+    ]
+  },
+  {
+    "slug": "calathea",
+    "common_name": "Calathea",
+    "aka": [
+      "Prayer Plant",
+      "Goeppertia"
+    ],
+    "scientific_name": "Goeppertia (formerly Calathea)",
+    "summary": "Grown for its strikingly patterned leaves that fold up at night. Beautiful but demanding about humidity and water quality, rewarding attentive owners with vivid foliage.",
+    "difficulty": "Hard",
+    "light": "Medium, indirect light. Direct sun fades the patterns and scorches leaves.",
+    "water": "Keep soil lightly and evenly moist, never soggy or bone-dry. Water about every 5-7 days with filtered water.",
+    "watering_days": 6,
+    "humidity": "High humidity (60%+) is essential. Dry air causes crispy edges; a humidifier is strongly recommended.",
+    "temperature": "18-26 C (65-79 F). Sensitive to cold and drafts.",
+    "soil": "Moisture-retentive but well-draining mix with peat or coco coir.",
+    "fertilizer": "Diluted balanced fertilizer monthly during spring and summer.",
+    "growth": "Moderate. Leaves move (nyctinasty) on a daily cycle, rising at night and lowering by day.",
+    "toxic_to_pets": false,
+    "toxicity_notes": "Non-toxic and safe for cats and dogs.",
+    "common_problems": [
+      {
+        "problem": "crispy brown leaf edges",
+        "cause": "Low humidity or minerals in tap water - the most common Calathea complaint.",
+        "fix": "Use a humidifier to keep humidity high and water only with filtered, distilled, or rainwater."
+      },
+      {
+        "problem": "curling leaves",
+        "cause": "Underwatering or low humidity.",
+        "fix": "Keep the soil evenly moist and raise humidity around the plant."
+      },
+      {
+        "problem": "fading patterns",
+        "cause": "Too much direct light.",
+        "fix": "Move to bright but indirect light to preserve the leaf markings."
+      },
+      {
+        "problem": "yellow leaves",
+        "cause": "Overwatering or hard tap water.",
+        "fix": "Let the top of the soil dry slightly more and switch to filtered water."
+      }
+    ],
+    "products": [
+      {
+        "category": "Humidifier",
+        "name": "Cool-mist humidifier"
+      },
+      {
+        "category": "Potting mix",
+        "name": "Coco coir potting mix"
+      },
+      {
+        "category": "Hygrometer",
+        "name": "Digital humidity monitor"
+      }
+    ]
+  },
+  {
+    "slug": "heartleaf-philodendron",
+    "common_name": "Heartleaf Philodendron",
+    "aka": [
+      "Philodendron hederaceum",
+      "Sweetheart Plant"
+    ],
+    "scientific_name": "Philodendron hederaceum",
+    "summary": "A fast, trailing vine with glossy heart-shaped leaves that tolerates low light and irregular care. Often confused with pothos, it's one of the easiest vining houseplants to keep alive.",
+    "difficulty": "Very Easy",
+    "light": "Bright to low indirect light. Avoid direct sun. Tolerates dim corners better than most plants.",
+    "water": "Water when the top 2-3 cm of soil is dry, about every 7-10 days. Leaves curl slightly when thirsty.",
+    "watering_days": 8,
+    "humidity": "Average humidity is fine; appreciates a bit more.",
+    "temperature": "18-27 C (65-80 F).",
+    "soil": "Well-draining potting mix.",
+    "fertilizer": "Balanced liquid fertilizer at half strength monthly in spring and summer.",
+    "growth": "Fast trailing vine; pinch tips for fullness and propagate easily in water.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Toxic to cats and dogs. Calcium oxalate crystals cause mouth irritation, drooling, and vomiting if chewed.",
+    "common_problems": [
+      {
+        "problem": "yellow leaves",
+        "cause": "Overwatering or aging lower leaves.",
+        "fix": "Let soil dry more between waterings and ensure good drainage."
+      },
+      {
+        "problem": "leggy growth",
+        "cause": "Too little light.",
+        "fix": "Move to brighter indirect light and prune to encourage bushiness."
+      },
+      {
+        "problem": "brown leaf tips",
+        "cause": "Dry air or underwatering.",
+        "fix": "Water consistently and raise humidity slightly."
+      }
+    ],
+    "products": [
+      {
+        "category": "Hanging planter",
+        "name": "Hanging planter with drainage"
+      },
+      {
+        "category": "Potting mix",
+        "name": "All-purpose indoor potting mix"
+      },
+      {
+        "category": "Pruning shears",
+        "name": "Precision pruning snips"
+      }
+    ]
+  },
+  {
+    "slug": "chinese-evergreen",
+    "common_name": "Chinese Evergreen",
+    "aka": [
+      "Aglaonema"
+    ],
+    "scientific_name": "Aglaonema commutatum",
+    "summary": "A colorful, low-light foliage plant with patterned leaves in green, silver, pink, or red. Tough and slow-growing, it's a reliable choice for offices and shady rooms.",
+    "difficulty": "Easy",
+    "light": "Low to medium indirect light. Darker green varieties handle lower light; pink and red types need more.",
+    "water": "Water when the top few centimeters of soil are dry, about every 7-10 days. Tolerates occasional missed waterings.",
+    "watering_days": 9,
+    "humidity": "Prefers higher humidity but adapts to average air.",
+    "temperature": "18-27 C (65-80 F). Sensitive to cold below 15 C (59 F).",
+    "soil": "Well-draining potting mix.",
+    "fertilizer": "Balanced fertilizer monthly during spring and summer.",
+    "growth": "Slow and compact.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Toxic to cats and dogs. Calcium oxalate crystals cause oral irritation and vomiting if chewed.",
+    "common_problems": [
+      {
+        "problem": "yellow leaves",
+        "cause": "Overwatering or cold temperatures.",
+        "fix": "Let soil dry more and keep the plant warm, away from drafts."
+      },
+      {
+        "problem": "curling leaves",
+        "cause": "Underwatering or dry air.",
+        "fix": "Water consistently and raise humidity."
+      },
+      {
+        "problem": "brown patches",
+        "cause": "Direct sun or cold damage.",
+        "fix": "Move out of direct light and away from cold windows."
+      }
+    ],
+    "products": [
+      {
+        "category": "Potting mix",
+        "name": "Indoor potting mix"
+      },
+      {
+        "category": "Planter",
+        "name": "Ceramic planter with drainage"
+      },
+      {
+        "category": "Fertilizer",
+        "name": "Balanced houseplant fertilizer"
+      }
+    ]
+  }
+]

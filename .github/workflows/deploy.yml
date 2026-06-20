@@ -1,0 +1,66 @@
+name: Grow & Deploy LeafLore
+
+# Runs on a schedule (drips new content), on every push, and on demand.
+on:
+  schedule:
+    # Every 3 days at 14:00 UTC. Adjust cadence here.
+    - cron: "0 14 */3 * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write   # to commit the published-content progress back
+  pages: write      # to deploy to GitHub Pages
+  id-token: write   # required by the Pages deploy action
+
+# Prevent overlapping runs
+concurrency:
+  group: leaflore-deploy
+  cancel-in-progress: false
+
+jobs:
+  grow-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Publish new content + build site
+        # On scheduled runs, promote 2 plants from the backlog.
+        # On push/manual runs, just rebuild (count 0) so editing doesn't drain backlog.
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            python grow.py --count 2
+          else
+            python grow.py --count 0
+          fi
+
+      - name: Commit content progress
+        run: |
+          git config user.name "leaflore-bot"
+          git config user.email "actions@github.com"
+          git add data/plants.json data/backlog.json data/grow.log
+          if git diff --staged --quiet; then
+            echo "No content changes to commit."
+          else
+            git commit -m "Auto-publish new plant guides [skip ci]"
+            git push
+          fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
