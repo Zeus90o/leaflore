@@ -773,5 +773,109 @@
         "name": "Digital humidity monitor"
       }
     ]
+  },
+  {
+    "slug": "jade-plant",
+    "common_name": "Jade Plant",
+    "aka": [
+      "Crassula ovata",
+      "Money Plant"
+    ],
+    "scientific_name": "Crassula ovata",
+    "summary": "A long-lived succulent with plump, oval leaves and a tree-like form. Thrives on bright light and infrequent watering, and can live for decades as a treasured heirloom plant.",
+    "difficulty": "Easy",
+    "light": "Bright light with some direct sun. A sunny windowsill is ideal.",
+    "water": "Water deeply only when the soil is fully dry, about every 2-3 weeks. Overwatering causes rot.",
+    "watering_days": 17,
+    "humidity": "Prefers dry air.",
+    "temperature": "15-24 C (60-75 F). Protect from frost.",
+    "soil": "Gritty cactus or succulent mix.",
+    "fertilizer": "Diluted succulent fertilizer two or three times during the growing season.",
+    "growth": "Slow; thickens into a small tree over years.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Toxic to cats and dogs. Ingestion can cause vomiting, lethargy, and incoordination.",
+    "common_problems": [
+      {
+        "problem": "dropping leaves",
+        "cause": "Overwatering or sudden environmental change.",
+        "fix": "Let the soil dry fully and water far less often."
+      },
+      {
+        "problem": "shriveled leaves",
+        "cause": "Underwatering.",
+        "fix": "Give a thorough soak; leaves should plump up in a few days."
+      },
+      {
+        "problem": "leggy stretched growth",
+        "cause": "Too little light.",
+        "fix": "Move to a brighter spot with direct sun."
+      }
+    ],
+    "products": [
+      {
+        "category": "Potting mix",
+        "name": "Cactus and succulent soil"
+      },
+      {
+        "category": "Planter",
+        "name": "Terracotta pot with drainage"
+      },
+      {
+        "category": "Grow light",
+        "name": "Compact LED grow light"
+      }
+    ]
+  },
+  {
+    "slug": "string-of-pearls",
+    "common_name": "String of Pearls",
+    "aka": [
+      "Senecio rowleyanus",
+      "Curio rowleyanus"
+    ],
+    "scientific_name": "Curio rowleyanus",
+    "summary": "An unusual trailing succulent with strands of round, pea-like leaves that spill over pot edges. Stunning in hanging planters but unforgiving of overwatering.",
+    "difficulty": "Hard",
+    "light": "Bright indirect light with some gentle direct sun.",
+    "water": "Water only when the soil is dry, about every 2 weeks. The pearls shrivel slightly when thirsty.",
+    "watering_days": 14,
+    "humidity": "Prefers dry air.",
+    "temperature": "18-26 C (65-79 F).",
+    "soil": "Gritty, fast-draining succulent mix.",
+    "fertilizer": "Diluted succulent fertilizer occasionally in spring and summer.",
+    "growth": "Trailing; strands can grow long and be propagated easily.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Toxic to cats and dogs. Can cause vomiting, drooling, and skin irritation.",
+    "common_problems": [
+      {
+        "problem": "shriveled pearls",
+        "cause": "Underwatering or, if mushy, overwatering.",
+        "fix": "Check the soil: water if bone-dry, or cut back if soggy."
+      },
+      {
+        "problem": "mushy strands",
+        "cause": "Overwatering and rot.",
+        "fix": "Reduce watering sharply and ensure excellent drainage."
+      },
+      {
+        "problem": "sparse, leggy strands",
+        "cause": "Too little light.",
+        "fix": "Move to brighter light and trim to encourage fuller growth."
+      }
+    ],
+    "products": [
+      {
+        "category": "Hanging planter",
+        "name": "Hanging planter with drainage"
+      },
+      {
+        "category": "Potting mix",
+        "name": "Cactus and succulent mix"
+      },
+      {
+        "category": "Moisture meter",
+        "name": "Soil moisture meter"
+      }
+    ]
   }
 ]
