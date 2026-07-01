@@ -981,5 +981,109 @@
         "name": "Insecticidal soap spray"
       }
     ]
+  },
+  {
+    "slug": "anthurium",
+    "common_name": "Anthurium",
+    "aka": [
+      "Flamingo Flower",
+      "Laceleaf"
+    ],
+    "scientific_name": "Anthurium andraeanum",
+    "summary": "Known for its glossy, heart-shaped red, pink, or white spathes, the anthurium blooms almost year-round in good conditions. A vibrant, long-lasting flowering houseplant.",
+    "difficulty": "Easy",
+    "light": "Bright, indirect light for continuous blooming. Avoid direct sun.",
+    "water": "Water when the top 2-3 cm of soil is dry, about every 7 days. Keep lightly moist but never soggy.",
+    "watering_days": 7,
+    "humidity": "Prefers high humidity (50%+).",
+    "temperature": "18-27 C (65-80 F).",
+    "soil": "Loose, well-draining mix with orchid bark.",
+    "fertilizer": "Phosphorus-rich fertilizer diluted, every 6-8 weeks, to encourage blooms.",
+    "growth": "Moderate; blooms last for weeks.",
+    "toxic_to_pets": true,
+    "toxicity_notes": "Toxic to cats and dogs. Calcium oxalate crystals cause oral pain, drooling, and vomiting if chewed.",
+    "common_problems": [
+      {
+        "problem": "no flowers",
+        "cause": "Too little light or insufficient phosphorus.",
+        "fix": "Move to brighter indirect light and feed with a bloom fertilizer."
+      },
+      {
+        "problem": "yellow leaves",
+        "cause": "Overwatering.",
+        "fix": "Let the soil dry more and improve drainage."
+      },
+      {
+        "problem": "brown leaf tips",
+        "cause": "Low humidity or tap water minerals.",
+        "fix": "Raise humidity and use filtered water."
+      }
+    ],
+    "products": [
+      {
+        "category": "Fertilizer",
+        "name": "Bloom-boosting houseplant fertilizer"
+      },
+      {
+        "category": "Humidifier",
+        "name": "Cool-mist humidifier"
+      },
+      {
+        "category": "Potting mix",
+        "name": "Orchid and aroid potting mix"
+      }
+    ]
+  },
+  {
+    "slug": "money-tree",
+    "common_name": "Money Tree",
+    "aka": [
+      "Pachira aquatica",
+      "Guiana Chestnut"
+    ],
+    "scientific_name": "Pachira aquatica",
+    "summary": "Often sold with a braided trunk, the money tree is a pet-safe, good-luck plant that's easy to keep. It tolerates a range of conditions and adds a tidy, sculptural look.",
+    "difficulty": "Easy",
+    "light": "Bright, indirect light. Tolerates medium light; avoid harsh direct sun.",
+    "water": "Water when the top 5 cm of soil is dry, about every 7-10 days. Sensitive to overwatering.",
+    "watering_days": 9,
+    "humidity": "Prefers moderate humidity.",
+    "temperature": "18-27 C (65-80 F).",
+    "soil": "Well-draining potting mix.",
+    "fertilizer": "Balanced fertilizer monthly in spring and summer.",
+    "growth": "Moderate; rotate for even growth and prune to shape.",
+    "toxic_to_pets": false,
+    "toxicity_notes": "Non-toxic and considered safe for cats and dogs.",
+    "common_problems": [
+      {
+        "problem": "yellow leaves",
+        "cause": "Overwatering, the most common issue.",
+        "fix": "Let the soil dry more between waterings and ensure good drainage."
+      },
+      {
+        "problem": "dropping leaves",
+        "cause": "Sudden change in light, temperature, or watering.",
+        "fix": "Keep conditions stable and avoid moving the plant frequently."
+      },
+      {
+        "problem": "leggy growth",
+        "cause": "Too little light.",
+        "fix": "Move to brighter indirect light and prune to encourage branching."
+      }
+    ],
+    "products": [
+      {
+        "category": "Potting mix",
+        "name": "Well-draining indoor potting mix"
+      },
+      {
+        "category": "Planter",
+        "name": "Ceramic planter with drainage"
+      },
+      {
+        "category": "Moisture meter",
+        "name": "Soil moisture meter"
+      }
+    ]
   }
 ]
