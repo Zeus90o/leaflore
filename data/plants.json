@@ -1085,5 +1085,110 @@
         "name": "Soil moisture meter"
       }
     ]
+  },
+  {
+    "slug": "christmas-cactus",
+    "common_name": "Christmas Cactus",
+    "aka": [
+      "Schlumbergera",
+      "Holiday Cactus"
+    ],
+    "scientific_name": "Schlumbergera bridgesii",
+    "summary": "A pet-safe winter bloomer with flat, segmented stems and vivid flowers that appear around the holidays. Easy to keep and capable of living for generations.",
+    "difficulty": "Easy",
+    "light": "Bright, indirect light. Some direct morning sun is fine.",
+    "water": "Water when the top 2-3 cm of soil is dry, about every 7-10 days. It's a tropical cactus, not a desert one, so don't let it fully dry for long.",
+    "watering_days": 9,
+    "humidity": "Prefers moderate humidity.",
+    "temperature": "18-24 C (65-75 F); cooler nights in fall trigger blooming.",
+    "soil": "Well-draining mix with added perlite or orchid bark.",
+    "fertilizer": "Balanced fertilizer monthly in spring and summer; stop before bloom season.",
+    "growth": "Moderate; arching segmented stems, easy to propagate.",
+    "toxic_to_pets": false,
+    "toxicity_notes": "Non-toxic to cats and dogs, though eating large amounts may cause mild stomach upset.",
+    "common_problems": [
+      {
+        "problem": "no blooms",
+        "cause": "Not enough cool, dark nights in fall.",
+        "fix": "Give 12-14 hours of darkness and cooler temperatures for several weeks to trigger buds."
+      },
+      {
+        "problem": "dropping buds",
+        "cause": "Sudden change in light, temperature, or watering during budding.",
+        "fix": "Keep conditions stable once buds form and avoid moving the plant."
+      },
+      {
+        "problem": "limp, wrinkled segments",
+        "cause": "Under- or overwatering.",
+        "fix": "Check the soil and adjust; keep it lightly moist, never soggy or bone-dry."
+      }
+    ],
+    "products": [
+      {
+        "category": "Potting mix",
+        "name": "Cactus potting mix with perlite"
+      },
+      {
+        "category": "Fertilizer",
+        "name": "Balanced houseplant fertilizer"
+      },
+      {
+        "category": "Planter",
+        "name": "Decorative pot with drainage"
+      }
+    ]
+  },
+  {
+    "slug": "areca-palm",
+    "common_name": "Areca Palm",
+    "aka": [
+      "Dypsis lutescens",
+      "Butterfly Palm",
+      "Golden Cane Palm"
+    ],
+    "scientific_name": "Dypsis lutescens",
+    "summary": "A feathery, full palm that brings a tropical, resort-like feel to bright rooms. Pet-safe and a strong air purifier, though it likes consistent moisture and humidity.",
+    "difficulty": "Easy",
+    "light": "Bright, indirect light. Some gentle direct sun is tolerated.",
+    "water": "Keep soil lightly moist; water when the top 2-3 cm is dry, about every 5-7 days. Reduce in winter.",
+    "watering_days": 6,
+    "humidity": "Prefers higher humidity; brown tips appear in dry air.",
+    "temperature": "18-27 C (65-80 F).",
+    "soil": "Well-draining, slightly peaty mix.",
+    "fertilizer": "Balanced fertilizer monthly in spring and summer.",
+    "growth": "Moderate to fast; can reach 2 m (6-7 ft) indoors.",
+    "toxic_to_pets": false,
+    "toxicity_notes": "Non-toxic and safe for cats and dogs.",
+    "common_problems": [
+      {
+        "problem": "brown leaf tips",
+        "cause": "Dry air, underwatering, or fluoride in tap water.",
+        "fix": "Raise humidity, keep soil lightly moist, and use filtered water."
+      },
+      {
+        "problem": "yellow fronds",
+        "cause": "Overwatering or nutrient deficiency.",
+        "fix": "Improve drainage and feed during the growing season."
+      },
+      {
+        "problem": "spider mites",
+        "cause": "Dry indoor air.",
+        "fix": "Rinse fronds, raise humidity, and treat with insecticidal soap if needed."
+      }
+    ],
+    "products": [
+      {
+        "category": "Humidifier",
+        "name": "Cool-mist humidifier"
+      },
+      {
+        "category": "Fertilizer",
+        "name": "Balanced palm fertilizer"
+      },
+      {
+        "category": "Pest control",
+        "name": "Insecticidal soap spray"
+      }
+    ]
   }
 ]
